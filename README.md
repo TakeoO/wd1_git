@@ -1,2 +1,4 @@
-# wd1_git
-Pa testni repo za WD1
+# Testni repozitory za smartninjo
+
+
+
